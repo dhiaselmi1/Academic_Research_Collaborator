@@ -1,0 +1,13 @@
+{
+  "research_question": "",
+  "citations": [],
+  "notes": [],
+  "literature_reviews": [],
+  "hypotheses": [],
+  "drafts": [],
+  "progress": {
+    "literature_review_completed": false,
+    "hypothesis_validated": false,
+    "draft_polished": false
+  }
+}
